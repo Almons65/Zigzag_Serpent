@@ -6,3 +6,39 @@ Installation and Run:
 4. type "cargo run" in terminal
 
 Done!
+
+
+
+Game Concept:
+
+We use the classic snake game as a reference of our concept. The concept of the game is we play as a snake and collect the exact amount of foods in the given timer.
+
+
+
+
+![image](https://github.com/user-attachments/assets/3efbcf09-d06f-4718-b7d0-a69914c846f0)
+
+
+
+
+
+
+How to play:
+
+- Pressing up, down, right, and left keys to make the snake move
+- Hitting food will make the score increase by 1
+- Collecting foods in the given timer (1 minute)
+- Pressing ‘p’ to pause and pressing again will resume the game
+- When you lose or win the game, you can press ‘r’ to retry or press ‘Enter’ to exit the game
+- Pressing ‘r’ will looping the game
+- Pressing ‘Enter’ will display the message “Thanks for playing!”
+
+
+
+Win Condition: Collecting 20 foods in 1 mintue
+
+Loose conditions:
+1. Running out of time
+2. Hitting the wall
+3. Hitting yourself
+
