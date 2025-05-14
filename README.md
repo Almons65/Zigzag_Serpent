@@ -42,3 +42,9 @@ Loose conditions:
 2. Hitting the wall
 3. Hitting yourself
 
+
+
+Screenshot:
+
+
+![image](https://github.com/user-attachments/assets/81804318-6a29-4d2b-b93b-ff1cdf862589)
