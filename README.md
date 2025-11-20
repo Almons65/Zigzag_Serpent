@@ -1,4 +1,6 @@
-Installation and Run:
+# Zigzag_Serpent
+
+## Installation and Run
 
 1. Install Rust in https://www.rust-lang.org/
 2. Open terminal in code editor (VsCode) and type "git clone https://github.com/Almons65/Zigzag_Serpent.git"
@@ -9,7 +11,7 @@ Done!
 
 
 
-Game Concept:
+## Game Concept
 
 We use the classic snake game as a reference of our concept. The concept of the game is we play as a snake and collect the exact amount of foods in the given timer.
 
@@ -23,7 +25,7 @@ We use the classic snake game as a reference of our concept. The concept of the 
 
 
 
-How to play:
+## How to play
 
 - Pressing up, down, right, and left keys to make the snake move
 - Hitting food will make the score increase by 1
@@ -35,16 +37,18 @@ How to play:
 
 
 
-Win Condition: Collecting 20 foods in 1 mintue
+## Win Condition
+Collecting 20 foods in 1 mintue
 
-Loose conditions:
+## Loose conditions
 1. Running out of time
 2. Hitting the wall
 3. Hitting yourself
 
 
 
-Screenshot:
+## ScreenShot
 
 
 ![image](https://github.com/user-attachments/assets/81804318-6a29-4d2b-b93b-ff1cdf862589)
+
